@@ -1,0 +1,56 @@
+html,body,main{
+    height:100%;
+    margin:0;
+}
+
+div.grid{
+    color: whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display:grid ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 100%;
+}
+
+h1.p1
+{
+    margin: 0px;
+    background-color: rgb(231, 18, 18);
+    color: whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    font-size: 40px;
+    padding: 20px;
+    min-height: 100px;
+    text-align: center;
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+div.c3{
+    height:100%;
+    background:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(255,255,255,.6)),url("image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.div-a
+{
+    display: inline-block;
+    font-size: 45px;
+    text-decoration: none;
+    font-weight:bolder;
+    color: rgb(25, 27, 27);
+    font-family: sans-serif;
+    
+}
+.extra-a{
+    position:absolute;
+    display:block;
+    height:100%;
+    width:25%;
+}
