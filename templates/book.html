@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block head%}
+<link rel="stylesheet" href="{{url_for('static',filename='css/header.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/common.css')}}">
+{% endblock %}
+
+{% block body%}
+<div class="header_div">
+    <div class="text-center text-light">
+        <a href="/">Book Recommender System</a>
+    </div>
+</div>
+<div class="common-div"></div>
+<div class="div-form"> 
+    <form action="/book" method="POST">
+        <input class="form-input" type="text" placeholder="Enter a book title" name="book_title"><button class="form-btn text-center text-light bg-primary" type="submit"><i class="fa fa-search"></i>Search</button>
+    </form>
+</div>
+<div class="demo"> 
+    {% for book in books %}
+    <div class=demo2>
+        <a href="/book/{{book.title}}">
+        <img class="demo2" src="../static/book/{{book.title}}.jpg"></a>
+    </div>
+    {% endfor %}
+    </div>
+{% endblock%}

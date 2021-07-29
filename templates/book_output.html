@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% block head%}
+<link rel="stylesheet" href="{{url_for('static',filename='css/header.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='css/common.css')}}">
+{% endblock %}
+
+{% block body%}
+<div class="header_div">
+    <div class="text-center text-light">
+        <a href="/">Book Recommender System</a>
+    </div>
+</div>
+{% if(book_recommendation==0) %}
+    <div class="not-found">
+        <h1>No Title Found</h1>
+    </div>
+{% else %}
+    <div class="description">
+        <div class="description-div1">
+            <img class="description-img" src="../static/book/{{book.title}}.jpg">
+        </div>
+        <div class="description-div2">
+            <h1>{{book.title}}</h1>
+            <div class="description-div2-div">
+                <h2>Author:<span>{{book.author}}</span></h2>
+                <h2>Rating:<span>{{book.rating}}/5</span></h2>
+            </div><br>
+            <p>Description:<span>{{book.description}}</span></p>
+        </div>
+    </div>
+{% endif %}<br><br>
+<div class="div-form"> 
+    <form action="/book" method="POST">
+        <input class="form-input" type="text" placeholder="Enter a book title" name="book_title"><button class="form-btn text-center text-light bg-primary" type="submit"><i class="fa fa-search"></i>Search</button>
+    </form>
+</div>
+<div class="demo">
+    {% if(book_recommendation==0) %}
+    {% for book in books %}
+    <div class=demo2>
+        <a href="/book/{{book.title}}">
+        <img class="demo2" src="../static/book/{{book.title}}.jpg"></a>
+    </div>
+    {% endfor %}
+    {% else %}
+    {% for book in book_recommendation%}
+    <div class=demo2>
+        <a href="/book/{{book.title}}">
+        <img class="demo2" src="../static/book/{{book.title}}.jpg"></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+</div>
+{% endblock%}

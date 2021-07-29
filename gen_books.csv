@@ -1,0 +1,101 @@
+id,original_title,average_rating,authors,book_index
+1,The Hunger Games,4.34,Suzanne Collins,0
+2,Harry Potter and the Sorcerer's Stone,4.44,"J.K. Rowling, Mary GrandPré",1
+3,Twilight,3.57,Stephenie Meyer,2
+4,To Kill a Mockingbird,4.25,Harper Lee,3
+5,The Great Gatsby,3.89,F. Scott Fitzgerald,4
+6,The Fault in Our Stars,4.26,John Green,5
+7,The Hobbit,4.25,J.R.R. Tolkien,6
+8,The Catcher in the Rye,3.79,J.D. Salinger,7
+9,Angels & Demons,3.85,Dan Brown,8
+10,Pride and Prejudice,4.24,Jane Austen,9
+11,The Kite Runner,4.26,Khaled Hosseini,10
+12,Divergent,4.24,Veronica Roth,11
+13,1984,4.14,"George Orwell, Erich Fromm, Celâl Üster",12
+14,Animal Farm,3.87,George Orwell,13
+15,The Diary of a Young Girl,4.1,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",14
+16,The Girl with the Dragon Tattoo,4.11,"Stieg Larsson, Reg Keeland",15
+17,Catching Fire,4.3,Suzanne Collins,16
+18,Harry Potter and the Prisoner of Azkaban,4.53,"J.K. Rowling, Mary GrandPré, Rufus Beck",17
+19,The Fellowship of the Ring,4.34,J.R.R. Tolkien,18
+20,Mockingjay,4.03,Suzanne Collins,19
+21,Harry Potter and the Order of the Phoenix,4.46,"J.K. Rowling, Mary GrandPré",20
+22,The Lovely Bones,3.77,Alice Sebold,21
+23,Harry Potter and the Chamber of Secrets,4.37,"J.K. Rowling, Mary GrandPré",22
+24,Harry Potter and the Goblet of Fire,4.53,"J.K. Rowling, Mary GrandPré",23
+25,Harry Potter and the Deathly Hallows,4.61,"J.K. Rowling, Mary GrandPré",24
+26,The Da Vinci Code,3.79,Dan Brown,25
+27,Harry Potter and the Half-Blood Prince,4.54,"J.K. Rowling, Mary GrandPré",26
+28,Lord of the Flies,3.64,William Golding,27
+29,Romeo and Juliet,3.73,"William Shakespeare, Robert Jackson",28
+30,Gone Girl,4.03,Gillian Flynn,29
+31,The Help,4.45,Kathryn Stockett,30
+32,Of Mice and Men,3.84,John Steinbeck,31
+33,Memoirs of a Geisha,4.08,Arthur Golden,32
+34,Fifty Shades of Grey,3.67,E.L. James,33
+35,The Alchemist,3.82,"Paulo Coelho, Alan R. Clarke",34
+36,The Giver,4.12,Lois Lowry,35
+37,"The Lion, the Witch, and the Wardrobe",4.19,C.S. Lewis,36
+38,The Time Traveler's Wife,3.95,Audrey Niffenegger,37
+39,A Game of Thrones,4.45,George R.R. Martin,38
+40,"Eat, Pray, Love",3.51,Elizabeth Gilbert,39
+41,The Lightning Thief,4.23,Rick Riordan,40
+42,Little Women,4.04,Louisa May Alcott,41
+43,Jane Eyre,4.1,"Charlotte Brontë, Michael Mason",42
+44,The Notebook,4.06,Nicholas Sparks,43
+45,Life of Pi,3.88,Yann Martel,44
+46,Water for Elephants,4.07,Sara Gruen,45
+47,The Book Thief,4.36,Markus Zusak,46
+48,Fahrenheit 451,3.97,Ray Bradbury,47
+49,New Moon,3.52,Stephenie Meyer,48
+50,Where the Sidewalk Ends,4.29,Shel Silverstein,49
+51,City of Bones,4.12,Cassandra Clare,50
+52,Eclipse,3.69,Stephenie Meyer,51
+53,Eragon,3.86,Christopher Paolini,52
+54,The Hitchhiker's Guide to the Galaxy,4.2,Douglas Adams,53
+55,Brave New World,3.97,Aldous Huxley,54
+56,Breaking Dawn,3.7,Stephenie Meyer,55
+57,The Secret Life of Bees,4.01,Sue Monk Kidd,56
+58,The Adventures of Huckleberry Finn,3.8,"Mark Twain, John Seelye, Guy Cardwell",57
+59,Charlotte's Web,4.15,"E.B. White, Garth Williams, Rosemary Wells",58
+60,The Curious Incident of the Dog in the Night-Time,3.85,Mark Haddon,59
+61,The Girl on the Train,3.88,Paula Hawkins,60
+62,The Golden Compass,3.94,Philip Pullman,61
+63,Wuthering Heights,3.82,"Emily Brontë, Richard J. Dunn",62
+64,My Sister's Keeper,4.06,Jodi Picoult,63
+65,Slaughterhouse-Five,4.06,Kurt Vonnegut Jr.,64
+66,Gone with the Wind,4.28,Margaret Mitchell,65
+67,A Thousand Splendid Suns,4.34,Khaled Hosseini,66
+68,The Perks of Being a Wallflower,4.21,Stephen Chbosky,67
+69,Insurgent,4.07,Veronica Roth,68
+70,Ender's Game,4.3,Orson Scott Card,69
+71,Frankenstein,3.75,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",70
+72,The Shining,4.17,Stephen King,71
+73,The Host,3.84,Stephenie Meyer,72
+74,Looking for Alaska,4.09,John Green,73
+75,Bridget Jones's Diary,3.75,Helen Fielding,74
+76,Sense and Sensibility,4.06,"Jane Austen, Tony Tanner, Ros Ballaster",75
+77,Holes,3.93,"Louis Sachar, Louis Sachar",76
+78,The Devil Wears Prada,3.7,Lauren Weisberger,77
+79,The Odyssey,3.73,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",78
+80,The Little Prince,4.28,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",79
+81,The Glass Castle,4.24,Jeannette Walls,80
+82,Into the Wild,3.94,Jon Krakauer,81
+83,A Tale of Two Cities,3.81,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",82
+84,Jurassic Park,3.96,Michael Crichton,83
+85,The Giving Tree,4.38,Shel Silverstein,84
+86,A Time to Kill,4.03,John Grisham,85
+87,Night,4.3,"Elie Wiesel, Marion Wiesel",86
+88,Paper Towns,3.88,John Green,87
+89,The Princess Bride ,4.25,William Goldman,88
+90,The Outsiders,4.06,S.E. Hinton,89
+91,The Maze Runner,4.02,James Dashner,90
+92,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,3.93,"Steven D. Levitt, Stephen J. Dubner",91
+93,The Secret Garden,4.12,Frances Hodgson Burnett,92
+94,One Hundred Years of Solitude,4.04,"Gabriel García Márquez, Gregory Rabassa",93
+95,The Picture of Dorian Gray,4.06,"Oscar Wilde, Jeffrey Eugenides",94
+96,Fifty Shades Freed,3.88,E.L. James,95
+97,Dracula,3.98,"Bram Stoker, Nina Auerbach, David J. Skal",96
+98,The Girl Who Played with Fire,4.22,"Stieg Larsson, Reg Keeland",97
+99,Fifty Shades Darker,3.87,E.L. James,98
+100,The Poisonwood Bible,4.02,Barbara Kingsolver,99
